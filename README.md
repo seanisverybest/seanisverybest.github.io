@@ -1,0 +1,3 @@
+# seanisverybest.github.io
+
+Using this as a site for storing other variables that won't go to my external site, [seanisverybest.com](https://seanisverybest.com). I'm using my site as an [IPFS](https://github.com/ipfs/ipfs) site, so that means every time I update it, I also have to update the pointing records. (As for context, my site is also available on [IPNS](https://ipfs.io/ipns/seanisverybest.com).)
